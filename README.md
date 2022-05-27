@@ -35,7 +35,7 @@ PacMen Factory is a minigame in which it is possible to add as many Pac-Man as y
 
 ## :sparkles: Roadmap
 
-The characteristics that this project currently has are
+The characteristics that this project currently has are:
 
 :heavy_check_mark: Each pacman that is added performs the opening/closing movement that characterizes this character.
 
