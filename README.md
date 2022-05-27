@@ -31,7 +31,7 @@
 
 Do you remember the friendly little yellow ball from the 80's that just eats, eats and eats?? Exactly, we are talking about Pac-Man.
 
-PacMen Factory is a minigame in which it is possible to add as many pac men as you want and then put them in motion within a specific area. This project is an animation work that uses the famous character to show how fun web development can be and how powerful the combination of HTML, CSS and JavaScript can be.
+PacMen Factory is a minigame in which it is possible to add as many Pac-Man as you want and then put them in motion within a specific area. This project is an animation work that uses the famous character to show how fun web development can be and how powerful the combination of HTML, CSS and JavaScript can be.
 
 ## :sparkles: Roadmap
 
@@ -51,8 +51,11 @@ The initial goal of this project is to simulate movement and create animations u
 However, after fulfilling our purpose, the following changes are proposed for the future:
 
 :pushpin: Add other characters like ghosts.
+
 :pushpin: Add interaction with other objects like another pac man or some ghost
+
 :pushpin: fix the speed increase bug every time the start button is pressed
+
 :pushpin: replicate at least one level from the original game
 
 ## :white_check_mark: Requirements
@@ -71,7 +74,7 @@ Find the folder in the path where the clone was made and open the './index.html'
 
 The region where each pacman will move (container delimited with gold dots) is shown in the application's user interface. Just click the add pacman button and then start the game. You will start to see the movement of the character.
 
-You can add as many pacmans as you want before or after starting the game.
+You can add as many Pac-Mans as you want before or after starting the game.
 
 ## :wrench: Support
 
