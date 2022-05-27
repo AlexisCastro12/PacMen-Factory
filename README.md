@@ -35,17 +35,17 @@ PacMen Factory is a minigame in which it is possible to add as many Pac-Man as y
 
 ## :sparkles: Roadmap
 
-The characteristics that this project currently has are
+The characteristics that this project currently has are:
 
-:heavy_check_mark: Each pacman that is added performs the opening/closing movement that characterizes this character.
+:heavy_check_mark: Each Pac-Man that is added performs the opening/closing movement that characterizes this character.
 
-:heavy_check_mark: when a pacman touches some side edge it bounces and changes direction
+:heavy_check_mark: when a Pac-Man touches some side edge it bounces and changes direction
 
-:heavy_check_mark: An additional pacman can be added each time the corresponding button is pressed.
+:heavy_check_mark: An additional Pac-Man can be added each time the corresponding button is pressed.
 
-:heavy_check_mark: The game starts once start game is pressed, it doesn't matter if there is no pacman on the screen.
+:heavy_check_mark: The game starts once start game is pressed, it doesn't matter if there is no Pac-Man on the screen.
 
-:heavy_check_mark: The starting position, speed and direction of each pacman is random.
+:heavy_check_mark: The starting position, speed and direction of each Pac-Man is random.
 
 The initial goal of this project is to simulate movement and create animations using front-end web development languages.
 However, after fulfilling our purpose, the following changes are proposed for the future:
@@ -72,7 +72,7 @@ $ git clone https://github.com/AlexisCastro12/PacMen-Factory
 
 Find the folder in the path where the clone was made and open the './index.html' file in any browser (Chrome recommended).
 
-The region where each pacman will move (container delimited with gold dots) is shown in the application's user interface. Just click the add pacman button and then start the game. You will start to see the movement of the character.
+The region where each Pac-Man will move (container delimited with gold dots) is shown in the application's user interface. Just click the add Pac-Man button and then start the game. You will start to see the movement of the character.
 
 You can add as many Pac-Mans as you want before or after starting the game.
 
