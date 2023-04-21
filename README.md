@@ -33,7 +33,7 @@ Do you remember the friendly little yellow ball from the 80's that just eats, ea
 
 PacMen Factory is a minigame in which it is possible to add as many Pac-Man as you want and then put them in motion within a specific area. This project is an animation work that uses the famous character to show how fun web development can be and how powerful the combination of HTML, CSS and JavaScript can be.
 
-## :sparkles: Roadmap
+## :sparkles: Features
 
 The characteristics that this project currently has are:
 
